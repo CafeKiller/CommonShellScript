@@ -1,3 +1,5 @@
+REM @Descript: 为文件夹添加备注
+
 @echo off
 echo.&echo.
 set /p fn=文件夹路径[也可以直接拖进来]:
